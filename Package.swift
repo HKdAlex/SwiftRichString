@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftRichString",
     platforms: [
-        .macOS(.v10_15),
+        .macOS(.v10_14),
         .iOS(.v13),
         .tvOS(.v9),
         .watchOS(.v2)
